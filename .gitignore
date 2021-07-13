@@ -1,0 +1,11 @@
+/build/msvc/*.user
+/build/msvc/x64/Release/*.tlog
+/build/msvc/x64/Release/*.obj
+/build/msvc/x64/Release/*.txt
+/build/msvc/x64/Release/*.pdb
+/build/msvc/x64/Release/*.log
+/build/msvc/x64/Release/*.recipe
+/build/msvc/x64/Release/*.exp
+/build/msvc/x64/Release/*.iobj
+/build/msvc/x64/Release/*.ipdb
+/build/msvc/.vs/*
